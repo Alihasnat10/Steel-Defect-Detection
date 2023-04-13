@@ -4,5 +4,5 @@ models
 training.ipynb
 *.pyc
 deliverable_code
-*ipynb
+*.ipynb
 *.zip
